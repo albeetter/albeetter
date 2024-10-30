@@ -5,10 +5,10 @@
 </h1>
 
 ## Julius Albert Ortiz 
-I'm a passionate 2nd Year Computer Science student at New Era University, diving into the world of digital services and programming with a strong foundation and growing expertise. With hands-on experience in coding and a knack for digital solutions, I'm driven to explore, innovate, and create tech that makes a difference.
+I'm a passionate second-year Computer Science student at New Era University. With a strong foundation and growing expertise in digital services and programming, I'm diving into the world of digital services and programming. With hands-on experience in coding and a knack for digital solutions, I'm driven to explore, innovate, and create tech that makes a difference, especially in Cyber Security.
 
 - 😄 Pronouns: He/Him 
-- ⚡ Fun fact: I'm the kind of person who can code all day, then switch gears to curate a killer outfit, find the perfect food spot, and hit the dance floor—all with style! Tech, tacos, and trendy moves are my ultimate vibe. 
+- ⚡ Fun fact: I'm the kind of person who can code all day, switch gears to curate a killer outfit, find the perfect food spot and hit the dance floor—all with style! Tech, tacos, and trendy moves are my ultimate vibe. 
 
 <h2 align="center">📖 Education 📖 </h2> 
 
