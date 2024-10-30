@@ -22,11 +22,11 @@ Coding, Layout Designing, Graphics, Video Editing
 <div align="center">
   
 <a href="mailto:juliusalbertortiz@gmail.com" target="_blank">
-<img src="https://w7.pngwing.com/pngs/712/520/png-transparent-google-mail-gmail-logo-icon.png" width=50 height=50 alt="juliusalbertortiz@gmail.com" style="margin-bottom: 5px;" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" style="margin-bottom: 5px;" />
 </a>
 
 <a href="https://x.com/ttalgiusseppe" target="_blank">
-<img src="https://freebiehive.com/wp-content/uploads/2023/07/Twitter-X-White-Logo-PNG.jpg" width=50 height=50 alt="ttalgiusseppe" style="margin-bottom: 5px;" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/X_logo.jpg/1200px-X_logo.jpg" width=50 height=50 alt="ttalgiusseppe" style="margin-bottom: 5px;" />
 </a>
 
 <a href="https://www.instagram.com/albeetter" target="_blank">
@@ -34,11 +34,11 @@ Coding, Layout Designing, Graphics, Video Editing
 </a>
 
 <a href="https://www.githubcom/albeetter" target="_blank">
-<img src="https://w7.pngwing.com/pngs/914/758/png-transparent-github-social-media-computer-icons-logo-android-github-logo-computer-wallpaper-banner-thumbnail.png" width=50 height=50 alt="albeetter" style="margin-bottom: 5px;" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" width=50 height=50 alt="albeetter" style="margin-bottom: 5px;" />
 </a>
 
 <a href="https://www.linkedin.com/in/julius-albert-ortiz-85a272301/" target="_blank">
-<img src="https://e7.pngegg.com/pngimages/777/441/png-clipart-linkedin-linkedin-thumbnail.png" width=50 height=50 alt="linkedin" style="margin-bottom: 5px;" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" width=50 height=50 alt="linkedin" style="margin-bottom: 5px;" />
 </a>
 
 </div>
