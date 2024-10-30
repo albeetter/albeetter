@@ -13,12 +13,11 @@ I'm a passionate 2nd Year Computer Science student at New Era University, diving
 <h2 align="center">📖 Education 📖 </h2> 
 
 <center>
-
+  
 | Grade Level         | School Name                            | Date              |
 |---------------------|----------------------------------------|-------------------|
 | **College**         | New Era University **(Bachelor of Science in Computer Science)** | 2023 - Present    |
 | **Senior High School** | New Era University **(STEM)**       | 2021 - 2023       |
-
 </center>
 
 <h2 align="center">🏅 Certifications 🏅 </h2> 
