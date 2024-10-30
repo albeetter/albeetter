@@ -45,7 +45,6 @@ Coding, Layout Designing, Graphics, Video Editing
 
 - 💻 Programming: HTML / CSS / JAVA
 - 💾 Databases: IBM DB2 Cloud
-- ⚙️ Tools: Eclipse, VSCode
 
 <h3 align="center">🛠️ Languages and Tools 🛠️</h3> 
 <div align="center">
