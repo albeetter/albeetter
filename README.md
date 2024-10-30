@@ -10,6 +10,12 @@ I'm a passionate 2nd Year Computer Science student at New Era University, diving
 - 😄 Pronouns: He/Him 
 - ⚡ Fun fact: I'm the kind of person who can code all day, then switch gears to curate a killer outfit, find the perfect food spot, and hit the dance floor—all with style! Tech, tacos, and trendy moves are my ultimate vibe. 
 
+<h2 align="center">📖 Education 📖 </h2> 
+| Grade Level | School Name                            | Date              |
+|-------------|----------------------------------------|-------------------|
+| **College** | New Era University **(BS Computer Science)**      | 2023 - Present    |
+| **Senior High School** | New Era University **(STEM)** | 2021 - 2023 |
+
 <h2 align="center">🏅 Certifications 🏅 </h2> 
 
 - [**SQL and Relational Databases 101**](https://courses.cognitiveclass.ai/certificates/8ca1e6ded6964f9e86d21458b19e0e01)
