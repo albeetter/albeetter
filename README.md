@@ -45,11 +45,14 @@ Coding, Layout Designing, Graphics, Video Editing
 </div>
 <br/> 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=albeetter)](https://github.com/anuraghazra/github-readme-stats)
+<p></p>
 
 <div align="center">
-
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=albeetter)](https://github.com/anuraghazra/github-readme-stats)
+  
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=albeetter&show_icons=true&count_private=true)  
+
 ![](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif)
 
 </div>
