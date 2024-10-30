@@ -1,10 +1,10 @@
 ![](https://pbs.twimg.com/media/GbIdnL2asAAmf5h?format=png&name=large)
 
 <h1 align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&size=38&pause=1000&color=A6A6A6&width=435&lines=HI+THERE!+%F0%9F%91%8B+I'M+JULIUS+ALBERT+ORTIZ" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&size=38&pause=1000&color=A6A6A6&width=435&lines=HI+THERE!+%F0%9F%91%8B+I'M+ALBERT" alt="Typing SVG" /></a>
 </h1>
 
-## Hi there! 👋, I'm Julius Albert Ortiz 
+## Julius Albert Ortiz 
 I'm a passionate 2nd Year Computer Science student at New Era University, diving into the world of digital services and programming with a strong foundation and growing expertise. With hands-on experience in coding and a knack for digital solutions, I'm driven to explore, innovate, and create tech that makes a difference.
 
 - 😄 Pronouns: He/Him 
