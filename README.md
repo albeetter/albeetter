@@ -7,6 +7,7 @@ I'm a passionate 2nd Year Computer Science student at New Era University, diving
 - ⚡ Fun fact: I'm the kind of person who can code all day, then switch gears to curate a killer outfit, find the perfect food spot, and hit the dance floor—all with style! Tech, tacos, and trendy moves are my ultimate vibe. 
 
 <h2 align="center">🏅 Certifications 🏅 </h2> 
+
 [**SQL and Relational Databases 101**](https://courses.cognitiveclass.ai/certificates/8ca1e6ded6964f9e86d21458b19e0e01)
 [**Basic Training on Cybersecurity and Capture-the-Flag Competition**](https://drive.google.com/file/d/1n9OSH0pM9Ez3xUZRoEBpGjryCusyKf5d/view?usp=drive_link)
 
@@ -22,7 +23,7 @@ Coding, Layout Designing, Graphics, Video Editing
 <div align="center">
   
 <a href="mailto:juliusalbertortiz@gmail.com" target="_blank">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" style="margin-bottom: 5px;" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" width=50 height=50 alt="juliusalbertortiz@gmail.com" style="margin-bottom: 5px;"/>
 </a>
 
 <a href="https://x.com/ttalgiusseppe" target="_blank">
