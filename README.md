@@ -37,7 +37,7 @@ I'm a passionate second-year Computer Science student at New Era University. Wit
 <h2 align="center">🏅 Certifications 🏅 </h2> 
 
 - [**SQL and Relational Databases 101**](https://courses.cognitiveclass.ai/certificates/8ca1e6ded6964f9e86d21458b19e0e01)
-- [**Basic Training on Cybersecurity and Capture-the-Flag Competition**](https://drive.google.com/file/d/1n9OSH0pM9Ez3xUZRoEBpGjryCusyKf5d/view?usp=drive_link)
+- [**PWNEU CTF**](https://drive.google.com/file/d/1n9OSH0pM9Ez3xUZRoEBpGjryCusyKf5d/view?usp=drive_link)
 
 
 <h2 align="center">💻 Skills and Experience 💻 </h2> 
