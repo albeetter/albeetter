@@ -38,6 +38,7 @@ I'm a passionate second-year Computer Science student at New Era University. Wit
 
 - [**SQL and Relational Databases 101**](https://courses.cognitiveclass.ai/certificates/8ca1e6ded6964f9e86d21458b19e0e01)
 - [**PWNEU CTF**](https://drive.google.com/file/d/1n9OSH0pM9Ez3xUZRoEBpGjryCusyKf5d/view?usp=drive_link)
+- [**Oracle Cloud Infrastructure 2024 Certified Foundations Associate**](https://brm-certview.oracle.com/ords/certview/ecertificate?ssn=OC5403939&trackId=OCI2024FNDCFA&key=a8f8f51ecfa41c73663614a8e4ea462bdd4101d3)
 
 
 <h2 align="center">💻 Skills and Experience 💻 </h2> 
