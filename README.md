@@ -36,35 +36,24 @@ I'm a passionate second-year Computer Science student at New Era University. Wit
 
 <h2 align="center">🏅 Certifications 🏅 </h2> 
 
-<table>
-  <tr>
-    <th>Certificate</th>
-    <th>Issued by</th>
-    <th>Month Issued</th>
-  </tr>
-  <tr>
-    <td src="https://courses.cognitiveclass.ai/certificates/8ca1e6ded6964f9e86d21458b19e0e01">SQL and Relational Databases 101</td>
-    <td>Cognitive Class</td>
-    <td>October 2024</td>
-  </tr>
-  <tr>
-    <td><strong>Senior High School</strong></td>
-    <td>New Era University <strong>(STEM)</strong></td>
-    <td>2021 - 2023</td>
-  </tr>
-</table>
+<div align="center">
+  
+| Certificate | Issued by | Month Issued |
+| :-------------: | :-----: | :-----------: |
+| <a href="https://courses.cognitiveclass.ai/certificates/8ca1e6ded6964f9e86d21458b19e0e01"> SQL and Relational Databases 101 | Cognitive Class | October 2024 |
+| <a href="https://drive.google.com/file/d/1n9OSH0pM9Ez3xUZRoEBpGjryCusyKf5d/view?usp=drive_link"> Basic Training on Cybersecurity and Capture-the-Flag (PWNEU) | New Era University | April 2024 |
+| <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=0799A60A62CE8D72901E6CEED4C6DFD8EC624BD079E3F37E65FB90B08404E57A"> Oracle Cloud Infrastructure 2024 Certified Foundations Associate | Oracle | December 2024 |
+| <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=0799A60A62CE8D72901E6CEED4C6DFD8E930251F7331E491FB4C651F47FCC090"> Oracle Cloud Infrastructure 2024 Data Certified Foundations Associate | Oracle | December 2024 |
+| <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=8D3672FF80F65E7EA6BDB9FEF58BE8ABCC669E27436B359C3901762D466D2932"> Oracle Cloud Infrastructure 2024 Certified AI Foundations Associate | Oracle | December 2024 |
+| <a href="https://courses.cognitiveclass.ai/certificates/d96a68f0f8d0415f877285acc94ed5e3"> Data Visualization with Python | Cognitive Class | July 2025 |
+</div>
 
-- [**Basic Training on Cybersecurity and Capture-the-Flag (PWNEU)**](https://drive.google.com/file/d/1n9OSH0pM9Ez3xUZRoEBpGjryCusyKf5d/view?usp=drive_link)
-- [**Oracle Cloud Infrastructure 2024 Certified Foundations Associate**](https://catalog-education.oracle.com/pls/certview/sharebadge?id=0799A60A62CE8D72901E6CEED4C6DFD8EC624BD079E3F37E65FB90B08404E57A)
-- [**Oracle Cloud Infrastructure 2024 Data Certified Foundations Associate**](https://catalog-education.oracle.com/pls/certview/sharebadge?id=0799A60A62CE8D72901E6CEED4C6DFD8E930251F7331E491FB4C651F47FCC090)
-- [**Oracle Cloud Infrastructure 2024 Certified AI Foundations Associate**](https://catalog-education.oracle.com/pls/certview/sharebadge?id=8D3672FF80F65E7EA6BDB9FEF58BE8ABCC669E27436B359C3901762D466D2932)
-- [**Data VIsualization with Python**](https://courses.cognitiveclass.ai/certificates/d96a68f0f8d0415f877285acc94ed5e3)
 
 <h2 align="center">💻 Skills and Experience 💻 </h2> 
 Coding, Layout Designing, Graphics, Video Editing
 
 - 💻 Programming: HTML / CSS / JAVA
-- 💾 Databases: IBM DB2 Cloud
+- 💾 Databases: IBM DB2 Cloud / JSON
 
 <h3 align="center">🛠️ Languages and Tools 🛠️</h3> 
 <div align="center">
