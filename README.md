@@ -93,10 +93,9 @@ Coding, Layout Designing, Graphics, Video Editing
 
 <div align="center">
   
-<p align="center">
-  <img src="https://github-readme-streak-stats-albeetter.vercel.app/?user=johnraivenolazo&theme=dark&border=00ff6a&ring=00ff6a&currStreakLabel=00ff6a&fire=00ff6a&sideLabels=00ff6a&sideNums=00ff6a&dates=00ff6a&background=000000&border_radius=10" alt="GitHub Streak" height="165"/>
-  <img src="https://github-readme-stats-albeetter.vercel.app/api/top-langs/?username=johnraivenolazo&layout=compact&hide=html,css,scss&text_color=00ff6a&title_color=00ff6a&icon_color=00ff6a&bg_color=000000&border_color=00ff6a&border_radius=10" alt="Top Languages" height="195"/>
-</p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=albeetter)](https://github.com/anuraghazra/github-readme-stats)
+  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=albeetter&show_icons=true&count_private=true)  
 
 ![](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif)
 
